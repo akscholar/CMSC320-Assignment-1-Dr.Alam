@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a helpful tool for collaboration. Multiple users can work on the same project by seamlessly pulling and pushing changes.
+
